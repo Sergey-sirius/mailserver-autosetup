@@ -1,5 +1,6 @@
 # mailserver-autosetup
 Script for automatic setup mail server on Debian 10 Buster
+https://habr.com/ru/articles/539736/
 
 Usage:
 1. Start mailserver-setup.sh, Specity mail server short hostname, domain name and local IP. When the script finishes copy postgres password and replace with PASSWORD string into mailuser-addnew.sh and mailuser-setpass.sh
